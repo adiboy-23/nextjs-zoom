@@ -61,3 +61,9 @@
   ```
     npm run dev
   ```
+
+-![image](https://github.com/adiboy-23/nextjs-zoom/assets/123615666/296f2b2d-5b6b-4729-8866-b6e8338a64fb)
+
+- ![image](https://github.com/adiboy-23/nextjs-zoom/assets/123615666/d2efba7f-f883-4d95-aee3-0770f6129a9e)
+
+
